@@ -1,3 +1,9 @@
+This forked project serves to simply to black-out the boot manager text on a coreboot firmware on Chrome OS hardware.
+
+More information is here...
+
+https://docs.google.com/document/d/14TYqDMcJz7uoRCg4CPBU0CXnNjk2HviqZWrxvLVRf_4
+
 ==============
 EDK II Project
 ==============
